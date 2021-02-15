@@ -1,4 +1,4 @@
-package algorithm;
+package com.zizhizhan.leetcode;
 
 /**
  * Created with IntelliJ IDEA.
