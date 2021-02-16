@@ -407,7 +407,7 @@ LeetCode
 | 022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](algorithms/cpp/generateParentheses/generateParentheses.cpp)|Medium|
 | 021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](algorithms/021-merge-two-sorted-list.py)|Easy|
 | 020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](algorithms/020-valid-parentheses.py)|Easy|
-| 019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Python](algorithms/019-remove-nth-node-from-end-of-list.py))|Easy|
+| 019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Python](algorithms/019-remove-nth-node-from-end-of-list.py)|Easy|
 | 018|[4Sum](https://leetcode.com/problems/4sum/)| [Python](algorithms/018-4sum.py)|Medium|
 | 017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](algorithms/017-letter-combinations-of-a-phone-number.py)|Medium|
 | 016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Python](algorithms/016-3dum-vlosest.py)|Medium|
