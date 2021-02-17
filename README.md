@@ -83,7 +83,7 @@ LeetCode
 | 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](algorithms/171-excel-sheet-column-number.py)|Easy|
 | 169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/169-majority-element.py)|Easy|
 | 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](algorithms/168-excel-sheet-column-title.ipynb)|Easy|
-| 167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [Python](algorithms/167-two-sum-ii-input-array-is-sorted.ipynb)|Medium|
+| 167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](algorithms/167-two-sum-ii-input-array-is-sorted.ipynb)|Medium|
 | 160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](algorithms/160-intersection-of-two-linked-lists.ipynb)|Easy|
 | 152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [Python](algorithms/152-maximum-product-subarray.py)|Medium|
 | 150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Python](algorithms/150-evaluate-reverse-polish-notation.ipynb)|Medium|
