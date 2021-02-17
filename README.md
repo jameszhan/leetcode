@@ -54,8 +54,8 @@ LeetCode
 | 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Python](algorithms/242-valid-anagram.ipynb) |Easy|
 | 238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [Python](algorithms/238-product-of-array-except-self.py)|Medium|
 | 237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Python](algorithms/237-delete-node-in-a-linked-list.py)|Easy|
-| 236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| [Python](algorithms/236-lowest-common-ancestor-of-a-binary-tree.ipynb)|Medium|
-| 235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [Python](algorithms/235-lowest-common-ancestor-of-a-binary-search-tree.ipynb)|Easy|
+| 236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) &hearts; | [Python](algorithms/236-lowest-common-ancestor-of-a-binary-tree.ipynb)|Medium|
+| 235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) &hearts; | [Python](algorithms/235-lowest-common-ancestor-of-a-binary-search-tree.ipynb)|Easy|
 | 234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Python](algorithms/234-palindrome-linked-list.ipynb)|Easy|
 | 232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [Python](algorithms/232-implement-queue-using-stacks.ipynb)|Easy|
 | 231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Python](algorithms/231-power-of-two.py)|Easy|
@@ -142,10 +142,9 @@ LeetCode
 | 051|[N-Queens](https://leetcode.com/problems/n-queens/)| [Python](algorithms/051-n-queens.py)|Hard|
 | 050|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [Python](algorithms/050-powx-n.ipynb) |Medium|
 | 049|[Group Anagrams](https://leetcode.com/problems/anagrams/)| [Python](algorithms/049-group-anagrams.py)|Medium|
-| 048|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](algorithms/048-rotate-image.ipynb)|Medium|
+| 048|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [Pythonn](algorithms/048-rotate-image.ipynb)|Medium|
 | 047|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [Python](algorithms/047-permutations-ii.py)|Hard|
 | 046|[Permutations](https://leetcode.com/problems/permutations/)| [Python](algorithms/046-permutations.py)|Medium|
-| 045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](algorithms/cpp/jumpGame/jumpGame.II.cpp)|Hard|
 | 044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [Python](algorithms/044-wildcard-matching.py)|Hard|
 | 043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [Python](algorithms/043-multiply-strings.py)|Medium|
 | 042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Python](algorithms/042-trapping-rain-water.py), [Go](algorithms/042-trapping-rain-water.go)|Hard|
@@ -165,7 +164,7 @@ LeetCode
 | 026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](algorithms/026-remove-duplicates-from-sorted-array.py)|Easy|
 | 024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](algorithms/024-swap-nodes-in-pairs.ipynb)|Medium|
 | 023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Python](algorithms/023-merge-k-sorted-lists.py)|Hard|
-| 022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](algorithms/022-generate-parentheses.ipynb)|Medium|
+| 022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) &hearts;| [Python](algorithms/022-generate-parentheses.ipynb)|Medium|
 | 021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](algorithms/021-merge-two-sorted-lists.ipynb)|Easy|
 | 020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](algorithms/020-valid-parentheses.py)|Easy|
 | 019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Python](algorithms/019-remove-nth-node-from-end-of-list.py)|Easy|
