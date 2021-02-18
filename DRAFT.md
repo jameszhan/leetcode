@@ -386,7 +386,7 @@ LeetCode
 | 037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [C++](algorithms/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|
 | 036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [C++](algorithms/036-valid-sudoku.ipynb)|Easy|
 | 035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Python](algorithms/035-search-insert-position.py)|Medium|
-| 034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [C++](algorithms/cpp/searchForRange/searchForRange.cpp), [Java](algorithms/java/src/searchForRange/searchForRange.java)|Medium|
+| 034|[Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](algorithms/034-find-first-and-last-position-of-element-in-sorted-array.ipynb))|Medium|
 | 033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](algorithms/033-search-in-rotated-sorted-array.py)|Hard|
 | 032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Python](algorithms/032-longest-valid-parentheses.py)|Hard|
 | 031|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [Python](algorithms/031-next-permutation.py)|Medium|

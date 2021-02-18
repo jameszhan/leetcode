@@ -6,6 +6,8 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](algorithms/1143-longest-common-subsequence.ipynb)|Medium|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](algorithms/1004-max-consecutive-ones-iii.ipynb)|Medium|
+| 995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Python](algorithms/995-minimum-number-of-k-consecutive-bit-flips.ipynb)|Hard|
 | 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](algorithms/867-transpose-matrix.ipynb)|Easy|
 | 718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Python](algorithms/718-maximum-length-of-repeated-subarray.ipynb), [Go](algorithms/718-maximum-length-of-repeated-subarray.go)|Medium|
 | 692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](algorithms/692-top-k-frequent-words.ipynb)|Medium|
@@ -152,6 +154,7 @@ LeetCode
 | 038|[Count and Say](https://leetcode.com/problems/count-and-say/)| [Python](algorithms/038-count-and-say.ipynb)|Easy|
 | 036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [C++](algorithms/036-valid-sudoku.ipynb)|Easy|
 | 035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Python](algorithms/035-search-insert-position.py)|Medium|
+| 034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](algorithms/034-find-first-and-last-position-of-element-in-sorted-array.ipynb))|Medium|
 | 033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](algorithms/033-search-in-rotated-sorted-array.py)|Hard|
 | 032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Python](algorithms/032-longest-valid-parentheses.py)|Hard|
 | 031|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [Python](algorithms/031-next-permutation.py)|Medium|
@@ -160,6 +163,7 @@ LeetCode
 | 028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Python](algorithms/028-implement-strstr.py)|Easy|
 | 027|[Remove Element](https://leetcode.com/problems/remove-element/)| [Python](algorithms/027-remove-element.py)|Easy|
 | 026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](algorithms/026-remove-duplicates-from-sorted-array.py)|Easy|
+| 025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [Python](algorithms/025-reverse-nodes-in-k-group.ipynb)|Hard|
 | 024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](algorithms/024-swap-nodes-in-pairs.ipynb)|Medium|
 | 023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Python](algorithms/023-merge-k-sorted-lists.py)|Hard|
 | 022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) &hearts;| [Python](algorithms/022-generate-parentheses.ipynb)|Medium|
