@@ -10,6 +10,7 @@ LeetCode
 | 995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Python](algorithms/995-minimum-number-of-k-consecutive-bit-flips.ipynb)|Hard|
 | 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](algorithms/867-transpose-matrix.ipynb)|Easy|
 | 718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Python](algorithms/718-maximum-length-of-repeated-subarray.ipynb), [Go](algorithms/718-maximum-length-of-repeated-subarray.go)|Medium|
+| 697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python](algorithms/697-degree-of-an-array.ipynb)|Easy|
 | 692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](algorithms/692-top-k-frequent-words.ipynb)|Medium|
 | 673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Python](algorithms/673-number-of-longest-increasing-subsequence.ipynb)|Medium|
 | 653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Python](algorithms/653-two-sum-iv-input-is-a-bst.py)|Easy|
@@ -178,6 +179,7 @@ LeetCode
 | 013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Python](algorithms/013-roman-to-integer.py)|Easy|
 | 012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [Python](algorithms/012-integer-to-roman.ipynb)|Medium|
 | 011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Python](algorithms/011-container-with-most-water.py)|Medium|
+| 010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [Python](algorithms/010-regular-expression-matching.ipynb)|Hard|
 | 009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Python](algorithms/009-palindrome-number.py)|Easy|
 | 008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [Python](algorithms/008-string-to-integer-atoi.py)|Easy|
 | 007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Python](algorithms/007-reverse-integer.py)|Easy|
