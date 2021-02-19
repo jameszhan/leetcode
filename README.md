@@ -141,7 +141,7 @@ LeetCode
 | 053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Python](algorithms/053-maximum-subarray.py)|Medium|
 | 052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](algorithms/052-n-queens-ii.py)|Hard|
 | 051|[N-Queens](https://leetcode.com/problems/n-queens/)| [Python](algorithms/051-n-queens.py)|Hard|
-| 050|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [Python](algorithms/050-powx-n.ipynb) |Medium|
+| 050|[`Pow(x, n)`](https://leetcode.com/problems/powx-n/)| [Python](algorithms/050-powx-n.ipynb) |Medium|
 | 049|[Group Anagrams](https://leetcode.com/problems/anagrams/)| [Python](algorithms/049-group-anagrams.py)|Medium|
 | 048|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [Pythonn](algorithms/048-rotate-image.ipynb)|Medium|
 | 047|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [Python](algorithms/047-permutations-ii.py)|Hard|
@@ -153,13 +153,12 @@ LeetCode
 | 040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [Python](algorithms/040-combination-sum-ii.py)|Medium|
 | 039|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](algorithms/039-combination-sum.py)|Medium|
 | 038|[Count and Say](https://leetcode.com/problems/count-and-say/)| [Python](algorithms/038-count-and-say.ipynb)|Easy|
-| 036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [C++](algorithms/036-valid-sudoku.ipynb)|Easy|
+| 036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [Python](algorithms/036-valid-sudoku.ipynb)|Easy|
 | 035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Python](algorithms/035-search-insert-position.py)|Medium|
 | 034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](algorithms/034-find-first-and-last-position-of-element-in-sorted-array.ipynb))|Medium|
 | 033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](algorithms/033-search-in-rotated-sorted-array.py)|Hard|
 | 032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Python](algorithms/032-longest-valid-parentheses.py)|Hard|
 | 031|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [Python](algorithms/031-next-permutation.py)|Medium|
-| 030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](algorithms/cpp/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.cpp)|Hard|
 | 029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [Python](algorithms/029-divide-two-integers.py)|Medium|
 | 028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Python](algorithms/028-implement-strstr.py)|Easy|
 | 027|[Remove Element](https://leetcode.com/problems/remove-element/)| [Python](algorithms/027-remove-element.py)|Easy|
