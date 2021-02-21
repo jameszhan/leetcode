@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Python](algorithms/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.ipynb)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](algorithms/1143-longest-common-subsequence.ipynb)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](algorithms/1004-max-consecutive-ones-iii.ipynb)|Medium|
 | 995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Python](algorithms/995-minimum-number-of-k-consecutive-bit-flips.ipynb)|Hard|
@@ -26,8 +27,15 @@ LeetCode
 | 468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python](algorithms/468-validate-ip-address.ipynb)|Medium|
 | 454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [Python](algorithms/454-4sum-ii.py)|Medium|
 | 445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](algorithms/445-add-two-numbers-ii.ipynb)|Medium|
+| 441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](algorithms/441-arranging-coins.ipynb)|Easy|
 | 429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Python](algorithms/429-n-ary-tree-level-order-traversal.ipynb) | Medium |
+| 415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Python](algorithms/415-add-strings.ipynb)|Easy|
+| 414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](algorithms/414-third-maximum-number.ipynb) |Easy|
 | 409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](algorithms/409-longest-palindrome.ipynb)|Easy|
+| 405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Python](algorithms/405-convert-a-number-to-hexadecimal.ipynb)|Easy|
+| 401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](algorithms/401-binary-watch.ipynb)|Easy|
+| 392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](algorithms/392-is-subsequence.ipynb)|Medium|
+| 383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](algorithms/383-ransom-note.ipynb)|Easy|
 | 377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Python](algorithms/377-combination-sum-iv.ipynb)|Medium|
 | 371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](algorithms/371-sum-of-two-integers.ipynb)|Easy|
 | 367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](algorithms/367-valid-perfect-square.ipynb)|Easy|
