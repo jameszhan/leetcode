@@ -10,6 +10,7 @@ LeetCode
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](algorithms/1004-max-consecutive-ones-iii.ipynb)|Medium|
 | 995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Python](algorithms/995-minimum-number-of-k-consecutive-bit-flips.ipynb)|Hard|
 | 867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](algorithms/867-transpose-matrix.ipynb)|Easy|
+| 766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python](algorithms/766-toeplitz-matrix.ipynb)|Easy|
 | 718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Python](algorithms/718-maximum-length-of-repeated-subarray.ipynb), [Go](algorithms/718-maximum-length-of-repeated-subarray.go)|Medium|
 | 697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python](algorithms/697-degree-of-an-array.ipynb)|Easy|
 | 692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](algorithms/692-top-k-frequent-words.ipynb)|Medium|
@@ -27,6 +28,7 @@ LeetCode
 | 468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python](algorithms/468-validate-ip-address.ipynb)|Medium|
 | 454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [Python](algorithms/454-4sum-ii.py)|Medium|
 | 445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](algorithms/445-add-two-numbers-ii.ipynb)|Medium|
+| 448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](algorithms/448-find-all-numbers-disappeared-in-an-array.ipynb)|Easy|
 | 441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](algorithms/441-arranging-coins.ipynb)|Easy|
 | 429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Python](algorithms/429-n-ary-tree-level-order-traversal.ipynb) | Medium |
 | 415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Python](algorithms/415-add-strings.ipynb)|Easy|
